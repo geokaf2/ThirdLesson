@@ -1,0 +1,29 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 150px;
+}
+
+.google_map {
+    height: 200px;
+    width: 250px;
+    display: inline-block;
+}
+
+.cityName{    
+    font-size: 12px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.errorLabel {
+    text-align: center;
+    color: red;
+}
